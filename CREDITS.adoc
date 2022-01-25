@@ -1,0 +1,20 @@
+= Credits
+
+* ssh-ident team +
+Project Page: https://github.com/ssh-ident/
+* Carlo Contavalli, original author of ssh-ident[1] +
+Project Page: https://github.com/ccontavalli/
+
+.Members of ssh-ident team
+* Matthias Bücher, https://www.maddes.net/
+
+.Contributors to ssh-ident3
+* n/a
+
+.Contributors to ssh-ident[1]
+* Hubert depesz Lubaczewski, https://www.github.com/despez
+* Flip Hess, https://www.github.com/fliphess
+* Terrel Shumway, https://www.github.com/scholarly
+* black2754, https://www.github.com/black2754
+* Michael Heap, https://www.github.com/mheap
+* Carl Drougge, https://www.github.com/drougge
