@@ -1,0 +1,10 @@
+= Manual of ssh-ident3
+:toc: auto
+
+include::OVERVIEW.adoc[leveloffset=1]
+
+== TODO: Configuration
+
+== TODO: Usage
+
+include::CREDITS.adoc[leveloffset=1]

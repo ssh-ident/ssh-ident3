@@ -1,0 +1,11 @@
+// ssh-ident3 configuration JSON file: .ssh-ident3.json
+
+// Unlike pure JSON ssh-ident3 allows JavaScript comments as single lines
+// inside the configuration file, but *not* multiline comments
+// or trailing comments.
+// This allows to place comments before settings or to outcomment a setting.
+
+{
+	// Following is an outcommented fake setting
+	//"XYZ": 1
+}
