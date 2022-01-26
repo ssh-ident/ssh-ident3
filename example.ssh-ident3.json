@@ -2,7 +2,7 @@
 
 // Unlike pure JSON ssh-ident3 allows JavaScript comments as single lines
 // inside the configuration file, but *not* multiline comments
-// or trailing comments.
+// or trailing comments like with JSON5.
 // This allows to place comments before settings or to outcomment a setting.
 
 {
